@@ -2,7 +2,7 @@
 <XDFFORMAT version="1.50">
   <XDFHEADER>
     <flags>0x1</flags>
-    <deftitle>90550001_DMA_v0.020</deftitle>
+    <deftitle>90550001_DMA_v0.1</deftitle>
     <description>2byte load; rpm</description>
     <baseoffset>0</baseoffset>
     <DEFAULTS datasizeinbits="8" sigdigits="2" outputtype="1" signed="0" lsbfirst="0" float="0" />
